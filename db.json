@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Sleep",
+      "day": "Today",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Clean up my room",
+      "day": "Sunday 05th December",
+      "reminder": false,
+      "id": 7
+    },
+    {
+      "text": "Sleep",
+      "day": "Today",
+      "reminder": true,
+      "id": 8
+    }
+  ]
+}
